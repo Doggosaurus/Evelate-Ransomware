@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate_ransom.Evelate_Note.resources
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate_ransom.Properties.Resources.resources
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate ransom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate ransom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\elevate ransom\elevate ransom\bin\Debug\elevate ransom.exe.config
+C:\Users\User\source\repos\elevate ransom\elevate ransom\bin\Debug\elevate ransom.exe
+C:\Users\User\source\repos\elevate ransom\elevate ransom\bin\Debug\elevate ransom.pdb
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate ransom.exe
+C:\Users\User\source\repos\elevate ransom\elevate ransom\obj\Debug\elevate ransom.pdb
